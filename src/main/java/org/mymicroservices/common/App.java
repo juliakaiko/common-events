@@ -1,9 +1,5 @@
-package org.example;
+package org.mymicroservices.common;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
