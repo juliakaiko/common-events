@@ -37,7 +37,7 @@
 
   <distributionManagement>
     <repository>
-      <id>github</id> <!-- совпадает с <id> в m2/settings.xml -->
+      <id>github-event</id> <!-- совпадает с <id> в m2/settings.xml -->
       <name>GitHub Packages</name>
       <url>https://maven.pkg.github.com/juliakaiko/common-events</url>
     </repository>
